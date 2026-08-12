@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "안녕하세요! 저는 **한지혜**입니다."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-안녕하세요! 저는 **한지혜**입니다.
 
 현재 HD건설기계 제품원가혁신팀에서 중형 휠굴착기의 설계원가 업무를 담당하고 있습니다.
 
